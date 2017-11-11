@@ -25,4 +25,5 @@ if (nameIndex == -1) {
 	} else {
 	console.log(finalName +' is already in this table. Enter another name');
 	}
+	/*testing*/
 
