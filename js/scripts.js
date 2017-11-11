@@ -1,4 +1,4 @@
-// scripts.js
+﻿// scripts.js
 
 var femaleNames = ['Ania','Ola','Kasia'];
 var maleNames = ['Piotrek','Józek','Dyzio'];
